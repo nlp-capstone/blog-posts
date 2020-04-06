@@ -1,6 +1,6 @@
 +++
 date = 2020-04-7
-authors = "Ani Canumalla, Tobi Rohde"
+author = "Ani Canumalla, Tobi Rohde"
 title = "Blog Post 1: The Beginnings"
 +++
 
