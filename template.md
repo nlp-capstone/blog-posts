@@ -1,8 +1,4 @@
-+++
-date = 2020-04-7
-author = "Ani Canumalla, Tobi Rohde"
-title = "Blog Post 1: The Beginnings"
-+++
+# Blog Post X: 
 
 ## Assignment Description
 
